@@ -9,7 +9,7 @@ Display the current moon phase in tmux status bar.
 2. Add this plugin to your `~/.tmux.conf`:
 
 ```tmux
-set -g @plugin 'vimhack/tmux-moon-phase'
+set -g @plugin 'vimhack/tmux-moon-phase#main'
 ```
 
 3. Press [prefix] + `I` to install.
